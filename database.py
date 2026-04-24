@@ -8,21 +8,16 @@ from sqlalchemy import create_engine, inspect
 from sqlalchemy.orm import sessionmaker, Session
 from models import Base, Tecnico, TiempoTraslado, OrdenTrabajo, Asignacion
 
-# Path to database - use /tmp on Vercel as it's the only writable directory
-if os.environ.get('VERCEL'):
-    DB_PATH = "/tmp/inspecciones.db"
-else:
-    DB_PATH = os.path.join(os.path.dirname(__file__), "inspecciones.db")
+DB_PATH = os.path.join(os.path.dirname(__file__), "inspecciones.db")
 ENGINE = create_engine(f"sqlite:///{DB_PATH}", echo=False)
 SessionLocal = sessionmaker(bind=ENGINE)
 
-# Path to JSON data - Ensure absolute path
-JSON_DIR = os.path.join(os.path.abspath(os.path.dirname(__file__)), "datos_json")
+# Path to JSON data
+JSON_DIR = os.path.join(os.path.dirname(__file__), "datos_json")
 
 
 def init_db():
     """Create all tables if they don't exist."""
-    print(f"DEBUG: Inicializando BD en {DB_PATH}")
     Base.metadata.create_all(ENGINE)
 
 

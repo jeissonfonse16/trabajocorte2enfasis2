@@ -27,15 +27,16 @@ app = FastAPI(title="Inspecciones Predictivas", version="1.0.0")
 STATIC_DIR = os.path.join(os.path.dirname(__file__), "static")
 app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
 
-# Initialize database immediately for Serverless
-init_db()
-db_init = SessionLocal()
-try:
-    cargar_datos_iniciales(db_init)
-finally:
-    db_init.close()
-
-# No need for @app.on_event("startup") in Vercel
+# Initialize database on startup
+@app.on_event("startup")
+def startup():
+    init_db()
+    # Auto-load data if tables are empty
+    db = next(get_db())
+    try:
+        cargar_datos_iniciales(db)
+    finally:
+        db.close()
 
 
 # ═══════════════════════════════════════
