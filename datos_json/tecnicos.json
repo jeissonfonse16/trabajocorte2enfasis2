@@ -1,0 +1,416 @@
+[
+  {
+    "id": "TECNICO_1",
+    "nombre": "TECNICO 1",
+    "grupo": "GRUPO 3",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_2",
+    "nombre": "TECNICO 2",
+    "grupo": "GRUPO 4",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_3",
+    "nombre": "TECNICO 3",
+    "grupo": "GRUPO 3",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_4",
+    "nombre": "TECNICO 4",
+    "grupo": "GRUPO 2",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_5",
+    "nombre": "TECNICO 5",
+    "grupo": "GRUPO 3",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_6",
+    "nombre": "TECNICO 6",
+    "grupo": "GRUPO 3",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_7",
+    "nombre": "TECNICO 7",
+    "grupo": "GRUPO 4",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_8",
+    "nombre": "TECNICO 8",
+    "grupo": "GRUPO 2",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_9",
+    "nombre": "TECNICO 9",
+    "grupo": "GRUPO 1",
+    "habilidades": [
+      "Termografia",
+      "Pruebas Electricas",
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_10",
+    "nombre": "TECNICO 10",
+    "grupo": "GRUPO 4",
+    "habilidades": [
+      "Termografia",
+      "Vibracion",
+      "Pruebas Electricas"
+    ]
+  },
+  {
+    "id": "TECNICO_11",
+    "nombre": "TECNICO 11",
+    "grupo": "GRUPO 3",
+    "habilidades": [
+      "Termografia",
+      "Vibracion",
+      "Pruebas Electricas"
+    ]
+  },
+  {
+    "id": "TECNICO_12",
+    "nombre": "TECNICO 12",
+    "grupo": "GRUPO 4",
+    "habilidades": [
+      "Termografia",
+      "Vibracion",
+      "Pruebas Electricas"
+    ]
+  },
+  {
+    "id": "TECNICO_13",
+    "nombre": "TECNICO 13",
+    "grupo": "GRUPO 2",
+    "habilidades": [
+      "Termografia",
+      "Vibracion",
+      "Pruebas Electricas"
+    ]
+  },
+  {
+    "id": "TECNICO_14",
+    "nombre": "TECNICO 14",
+    "grupo": "GRUPO 2",
+    "habilidades": [
+      "Termografia",
+      "Vibracion",
+      "Pruebas Electricas",
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_15",
+    "nombre": "TECNICO 15",
+    "grupo": "GRUPO 3",
+    "habilidades": [
+      "Termografia",
+      "Vibracion",
+      "Pruebas Electricas",
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_16",
+    "nombre": "TECNICO 16",
+    "grupo": "GRUPO 1",
+    "habilidades": [
+      "Termografia",
+      "Vibracion",
+      "Pruebas Electricas",
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_17",
+    "nombre": "TECNICO 17",
+    "grupo": "GRUPO 1",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_18",
+    "nombre": "TECNICO 18",
+    "grupo": "GRUPO 1",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_19",
+    "nombre": "TECNICO 19",
+    "grupo": "GRUPO 4",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_20",
+    "nombre": "TECNICO 20",
+    "grupo": "GRUPO 2",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_21",
+    "nombre": "TECNICO 21",
+    "grupo": "GRUPO 2",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_22",
+    "nombre": "TECNICO 22",
+    "grupo": "GRUPO 3",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_23",
+    "nombre": "TECNICO 23",
+    "grupo": "GRUPO 2",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_24",
+    "nombre": "TECNICO 24",
+    "grupo": "GRUPO 1",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_25",
+    "nombre": "TECNICO 25",
+    "grupo": "GRUPO 2",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_26",
+    "nombre": "TECNICO 26",
+    "grupo": "GRUPO 4",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_27",
+    "nombre": "TECNICO 27",
+    "grupo": "GRUPO 4",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_28",
+    "nombre": "TECNICO 28",
+    "grupo": "GRUPO 1",
+    "habilidades": [
+      "Termografia",
+      "Vibracion",
+      "Pruebas Electricas",
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_29",
+    "nombre": "TECNICO 29",
+    "grupo": "GRUPO 4",
+    "habilidades": [
+      "Termografia",
+      "Vibracion",
+      "Pruebas Electricas"
+    ]
+  },
+  {
+    "id": "TECNICO_30",
+    "nombre": "TECNICO 30",
+    "grupo": "GRUPO 3",
+    "habilidades": [
+      "Termografia",
+      "Vibracion",
+      "Pruebas Electricas"
+    ]
+  },
+  {
+    "id": "TECNICO_31",
+    "nombre": "TECNICO 31",
+    "grupo": "GRUPO 4",
+    "habilidades": [
+      "Termografia",
+      "Vibracion",
+      "Pruebas Electricas"
+    ]
+  },
+  {
+    "id": "TECNICO_32",
+    "nombre": "TECNICO 32",
+    "grupo": "GRUPO 4",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_33",
+    "nombre": "TECNICO 33",
+    "grupo": "GRUPO 4",
+    "habilidades": []
+  },
+  {
+    "id": "TECNICO_34",
+    "nombre": "TECNICO 34",
+    "grupo": "GRUPO 1",
+    "habilidades": []
+  },
+  {
+    "id": "TECNICO_35",
+    "nombre": "TECNICO 35",
+    "grupo": "GRUPO 1",
+    "habilidades": [
+      "Inspeccion Estructural",
+      "Ultrasonido",
+      "Hermeticidad",
+      "Tintas Penetrantes",
+      "Particulas Magneticas"
+    ]
+  },
+  {
+    "id": "TECNICO_36",
+    "nombre": "TECNICO 36",
+    "grupo": "GRUPO 1",
+    "habilidades": []
+  }
+]

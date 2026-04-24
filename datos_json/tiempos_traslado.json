@@ -1,0 +1,42 @@
+{
+  "desde_taller": {
+    "Zona 1": 45,
+    "Zona 2": 45,
+    "Zona 3": 30,
+    "Zona 4": 45,
+    "Zona 5": 60
+  },
+  "entre_zonas": {
+    "Zona 1": {
+      "Zona 2": 60,
+      "Zona 3": 45,
+      "Zona 4": 60,
+      "Zona 5": 90
+    },
+    "Zona 2": {
+      "Zona 1": 60,
+      "Zona 3": 40,
+      "Zona 4": 60,
+      "Zona 5": 90
+    },
+    "Zona 3": {
+      "Zona 1": 45,
+      "Zona 2": 40,
+      "Zona 4": 45,
+      "Zona 5": 40
+    },
+    "Zona 4": {
+      "Zona 1": 60,
+      "Zona 2": 60,
+      "Zona 3": 45,
+      "Zona 5": 30
+    },
+    "Zona 5": {
+      "Zona 1": 90,
+      "Zona 2": 90,
+      "Zona 3": 40,
+      "Zona 4": 30
+    }
+  },
+  "mismo_lugar": 0
+}
